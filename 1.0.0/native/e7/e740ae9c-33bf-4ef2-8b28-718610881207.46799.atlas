@@ -1,0 +1,249 @@
+
+bigwin.png
+size: 1996,1996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+892001e2-5753-41dc-b8d6-4cdd978c2391.3347d.png
+  rotate: false
+  xy: 1701, 1772
+  size: 127, 63
+  orig: 128, 128
+  offset: 1, 34
+  index: -1
+ShineStar02_00
+  rotate: true
+  xy: 1622, 1759
+  size: 76, 77
+  orig: 100, 100
+  offset: 12, 11
+  index: -1
+ShineStar02_01
+  rotate: false
+  xy: 867, 137
+  size: 198, 197
+  orig: 200, 200
+  offset: 1, 1
+  index: -1
+bigwin_a
+  rotate: false
+  xy: 758, 870
+  size: 540, 233
+  orig: 540, 233
+  offset: 0, 0
+  index: -1
+bigwin_b
+  rotate: false
+  xy: 1291, 127
+  size: 504, 434
+  orig: 504, 437
+  offset: 0, 3
+  index: -1
+bigwin_front
+  rotate: false
+  xy: 1516, 1837
+  size: 478, 157
+  orig: 478, 157
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 2, 824
+  size: 754, 1170
+  orig: 754, 1170
+  offset: 0, 0
+  index: -1
+megawin_a
+  rotate: true
+  xy: 1300, 563
+  size: 540, 488
+  orig: 540, 543
+  offset: 0, 55
+  index: -1
+megawin_b
+  rotate: false
+  xy: 867, 336
+  size: 422, 532
+  orig: 422, 532
+  offset: 0, 0
+  index: -1
+supermegawin_a
+  rotate: true
+  xy: 2, 282
+  size: 540, 863
+  orig: 540, 915
+  offset: 0, 1
+  index: -1
+supermegawin_b
+  rotate: true
+  xy: 1345, 1189
+  size: 455, 543
+  orig: 455, 543
+  offset: 0, 0
+  index: -1
+supermegawin_bg
+  rotate: true
+  xy: 758, 1105
+  size: 539, 585
+  orig: 539, 585
+  offset: 0, 0
+  index: -1
+tw_bg_02
+  rotate: false
+  xy: 758, 1646
+  size: 756, 348
+  orig: 756, 354
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: true
+  xy: 1516, 1738
+  size: 97, 104
+  orig: 97, 104
+  offset: 0, 0
+  index: -1
+
+bigwin2.png
+size: 1943,1943
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/bw_vfx_c_screen_00
+  rotate: true
+  xy: 2, 536
+  size: 512, 395
+  orig: 540, 409
+  offset: 28, 1
+  index: -1
+1/bw_vfx_c_screen_01
+  rotate: false
+  xy: 923, 1548
+  size: 512, 393
+  orig: 540, 409
+  offset: 28, 1
+  index: -1
+1/bw_vfx_c_screen_02
+  rotate: true
+  xy: 399, 534
+  size: 512, 391
+  orig: 540, 409
+  offset: 28, 1
+  index: -1
+1/bw_vfx_c_screen_03
+  rotate: false
+  xy: 2, 1552
+  size: 514, 389
+  orig: 540, 409
+  offset: 26, 1
+  index: -1
+1/bw_vfx_c_screen_04
+  rotate: true
+  xy: 1306, 419
+  size: 510, 391
+  orig: 540, 409
+  offset: 30, 1
+  index: -1
+1/bw_vfx_c_screen_05
+  rotate: true
+  xy: 518, 1435
+  size: 506, 403
+  orig: 540, 409
+  offset: 34, 1
+  index: -1
+1/bw_vfx_c_screen_06
+  rotate: true
+  xy: 2, 1050
+  size: 500, 401
+  orig: 540, 409
+  offset: 40, 1
+  index: -1
+1/bw_vfx_c_screen_07
+  rotate: true
+  xy: 921, 931
+  size: 502, 395
+  orig: 540, 409
+  offset: 38, 1
+  index: -1
+1/bw_vfx_c_screen_09
+  rotate: false
+  xy: 1437, 1554
+  size: 504, 387
+  orig: 540, 409
+  offset: 36, 1
+  index: -1
+1/bw_vfx_c_screen_10
+  rotate: false
+  xy: 1183, 32
+  size: 510, 385
+  orig: 540, 409
+  offset: 30, 1
+  index: -1
+1/bw_vfx_c_screen_12
+  rotate: true
+  xy: 792, 24
+  size: 512, 389
+  orig: 540, 409
+  offset: 28, 1
+  index: -1
+1/bw_vfx_c_screen_13
+  rotate: true
+  xy: 395, 20
+  size: 512, 389
+  orig: 540, 409
+  offset: 28, 1
+  index: -1
+1/bw_vfx_c_screen_14
+  rotate: true
+  xy: 2, 22
+  size: 512, 391
+  orig: 540, 409
+  offset: 28, 1
+  index: -1
+1/bw_vfx_c_screen_15
+  rotate: false
+  xy: 405, 1048
+  size: 514, 385
+  orig: 540, 409
+  offset: 26, 1
+  index: -1
+1/bw_vfx_c_screen_17
+  rotate: false
+  xy: 1318, 1157
+  size: 512, 389
+  orig: 540, 409
+  offset: 28, 1
+  index: -1
+1/bw_vfx_c_screen_18
+  rotate: false
+  xy: 792, 538
+  size: 512, 391
+  orig: 540, 409
+  offset: 28, 1
+  index: -1
+
+bigwin3.png
+size: 899,899
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/bw_vfx_c_screen_08
+  rotate: false
+  xy: 2, 125
+  size: 504, 385
+  orig: 540, 409
+  offset: 36, 1
+  index: -1
+1/bw_vfx_c_screen_11
+  rotate: false
+  xy: 2, 512
+  size: 510, 385
+  orig: 540, 409
+  offset: 30, 1
+  index: -1
+1/bw_vfx_c_screen_16
+  rotate: true
+  xy: 514, 385
+  size: 512, 383
+  orig: 540, 409
+  offset: 28, 1
+  index: -1
